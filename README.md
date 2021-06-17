@@ -26,4 +26,4 @@ By the end of this session, you should be able to do the following STEPS:
 
 ## Slides
 
-The sessions follows [**these slides**](https://ohbm.github.io/handson-2021-reproducible-workflows/presentation/ohbm-handson-repro.html) step by step.
+The sessions follows [**these slides**](https://drive.google.com/file/d/1eDrrN7UwgNL5kXjQuU0GHvHwYCp2GytZ/view?usp=sharing) step by step.
