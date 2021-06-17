@@ -16,7 +16,7 @@ In this session, we will go through the necessary tools and some tips for effici
 
 ## Goals
 
-By the end of this session, you should be able to do the following STEPS:
+By the end of this session, you should be able to do the following:
 
 1. Use [google colab](https://research.google.com/colaboratory/faq.html) for python programming
 2. Understand errors and exceptions
@@ -27,3 +27,7 @@ By the end of this session, you should be able to do the following STEPS:
 ## Slides
 
 The sessions follows [**these slides**](https://drive.google.com/file/d/1eDrrN7UwgNL5kXjQuU0GHvHwYCp2GytZ/view?usp=sharing) step by step.
+
+## Materials
+
+All materials could be download from [**google drive**](https://drive.google.com/drive/folders/1byG0whEketc6HRVjd_axJpV5iGl9EVVN)
