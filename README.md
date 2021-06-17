@@ -30,4 +30,4 @@ The sessions follows [**these slides**](https://drive.google.com/file/d/1eDrrN7U
 
 ## Materials
 
-All materials could be download from [**google drive**](https://drive.google.com/drive/folders/1byG0whEketc6HRVjd_axJpV5iGl9EVVN)
+All materials could be downloaded from [**google drive**](https://drive.google.com/drive/folders/1byG0whEketc6HRVjd_axJpV5iGl9EVVN) as well.
